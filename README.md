@@ -1,5 +1,5 @@
 # Data Scientist Nanodegree
-# Supervised Learning
+# unSupervised Learning
 ## Customer-Segments
 
 ### Introduction
